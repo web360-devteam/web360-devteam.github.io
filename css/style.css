@@ -1,4 +1,4 @@
-  * {
+  /* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -53,10 +53,10 @@
   #cont{
     width: 50%;
     height: 100%;
-  }
+  } */
 
   .pano-image{
-    position: absolute;
-    max-width: 80%;
+    /* position: absolute; */
+    /* max-width: 80%; */
     height: 600px;
   }
