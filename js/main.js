@@ -1,5 +1,5 @@
 const panoImage = document.querySelector('.pano-image');
-const gambar = 'img/panor.jpg';
+const gambar = 'img/sample-contour_360.png';
 
 const panorama = new PANOLENS.ImagePanorama(gambar);
 const viewer = new PANOLENS.Viewer({
