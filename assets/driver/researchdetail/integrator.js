@@ -43,6 +43,8 @@ try {
         <h3 class="mbr-section-title align-center mb-3 mbr-fonts-style display-5">
             <strong>Berita Terkait ` + MAIN_DATA.researches[idx].big_title + `</strong></h3>
         <div>
+            <script async src="https://cse.google.com/cse.js?cx=67b1a2a7ebe88296e"></script>
+            <div class="gcse-search" value="Desa Pandanwangi"></div>
             <div class="mbr-social-likes align-center" data-counters="false">
             </div>
         </div>

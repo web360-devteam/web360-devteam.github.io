@@ -10,7 +10,7 @@ const MAIN_DATA = JSON.parse(`
             "big_img": "assets/images/dw/dronecap/DJI_0003.JPG",
             "judul_penelitian": "Rancangan Pengembangan Desa Wisata Budaya Berbasis Citra Teknologi dan Nilai-nilai Ecovillage",
             "peneliti": "Dr. Mupid Hidayat, M.Pd., Dr. Maulia Depriya Kembara, M.Pd., Rama Wijaya A. Rozak, M.Pd.",
-            "deskripsi": "Lorem ipsum dolor sit amet, oblique invenire vix ex. Has malis invidunt explicari ex. Ei fugit semper cetero has, an sea civibus iracundia. Electram sapientem qui id, pro no esse aperiam molestiae. Te vix facete scribentur, mel omnium delenit persecuti an, vix ei quod disputando.",
+            "deskripsi": "-",
             "tanggal_penelitian": "10-10-2020",
             "tempat_penelitian": "Cianjur",
             "coord_map": [-6.854306, 107.065604],
